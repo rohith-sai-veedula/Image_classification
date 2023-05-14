@@ -4,7 +4,7 @@ Image classification is the process of categorizing images into one or more pred
 
 A systematic approach as shown in the figure below is followed in the development of the project.
 
-![Project Approach](project Img1.png)
+![Project Approach](project_Img1.png)
 
 - The following are the **libraries** that are worked with in this project
 
